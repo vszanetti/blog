@@ -16,18 +16,42 @@ markup:
   highlight:
     noClasses: false
 
+defaultContentLanguage: en
+
+languages:
+  en:
+    contentDir: content
+    languageName: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+    weight: 3
+  fr:
+    contentDir: content/francais
+    languageName: 🇫🇷 Français
+    weight: 2
+  it:
+    contentDir: content/italiano
+    languageName: 🇮🇹 Italiano
+    weight: 2
+  pt-br:
+    contentDir: content/portugues
+    languageName: 🇧🇷 Português Brasileiro
+    weight: 1
+
 menu:
   main:
-    - name: Docs
+    - identifier: documentation
+      name: 📚 Documentation
       pageRef: /docs
       weight: 1
-    - name: About
+    - identifier: about
+      name: 🌍 About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - identifier: contact
+      name: 👤 Contact
       url: "https://github.com/imfing"
       weight: 3
-    - name: Search
+    - identifier: search
+      name: 🔎 Search
       weight: 4
       params:
         type: search
@@ -38,9 +62,9 @@ menu:
         icon: github
     - name: Twitter
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ocaligvla"
       params:
-        icon: x-twitter
+        icon: twitter
 
 params:
   navbar:

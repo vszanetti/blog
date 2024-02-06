@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: vszanetti's personal space
 
 # import hextra as module
 module:
@@ -48,7 +48,7 @@ menu:
       weight: 2
     - identifier: contact
       name: 👤 Contact
-      url: "https://github.com/imfing"
+      pageRef: /contact
       weight: 3
     - identifier: search
       name: 🔎 Search
@@ -57,7 +57,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/vszanetti"
       params:
         icon: github
     - name: Twitter

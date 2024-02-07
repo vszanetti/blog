@@ -6,8 +6,8 @@ toc: false
 # Ciao, raghe! 👋
 
 I'm Vitor Zanetti, an engineering student from Brazil (🇧🇷).
+<br></br>
 
-### 🔗 Links
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
         <img src="https://pbs.twimg.com/profile_images/1475986049285373956/Rtw8AwN9_400x400.jpg" alt="Foto de perfil" style="width: 150px; height: 150px; border-radius: 50%;">
@@ -34,12 +34,3 @@ I'm Vitor Zanetti, an engineering student from Brazil (🇧🇷).
         </a>
     </div>
 </div>
-
-
-### 🔎 Procurar
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-  {{< card link="contact" title="Contact" icon="user" >}}
-{{< /cards >}}

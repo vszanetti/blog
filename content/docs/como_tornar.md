@@ -1,10 +1,11 @@
 ---
 title: "Como Tornar sua Vida Digital Privada, Privada."
-date: 2024
+date: "2019-01-19"
+lastmod: "2024-02-07"
 draft: false
 ---
 
-<b>Disclaimer:</b> Essa publicação é uma versão revisada e expandida de um texto homônimo e de minha autoria, <a href="google.com">disponível neste link</a>
+<b>Disclaimer:</b> Essa publicação é uma versão revisada e expandida de um texto homônimo e de minha autoria, <a href="https://medium.com/@vszanetti">disponível neste link</a>.
 
 <h2>Como tornar sua vida digital privada, privada.</h2>
 

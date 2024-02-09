@@ -4,7 +4,7 @@ title: vszanetti's personal space
 # import hextra as module
 module:
   imports:
-  - path: github.com/imfing/hextra
+    - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
@@ -38,8 +38,8 @@ languages:
 
 menu:
   main:
-    - identifier: documentation
-      name: 📚 Documentation
+    - identifier: publications
+      name: 📚 Publications
       pageRef: /docs
       weight: 1
     - identifier: about

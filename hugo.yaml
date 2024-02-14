@@ -46,10 +46,10 @@ menu:
       name: 🌍 About
       pageRef: /about
       weight: 2
-    - identifier: contact
-      name: 👤 Contact
-      pageRef: /contact
-      weight: 3
+    #- identifier: contact
+    #  name: 👤 Contact
+    #  pageRef: /contact
+    #  weight: 3
     - identifier: search
       name: 🔎 Search
       weight: 4

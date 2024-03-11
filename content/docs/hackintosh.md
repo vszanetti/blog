@@ -9,7 +9,7 @@ Um hackintosh é um computador que usa o sistema operacional macOS, desenvolvido
 Justamente por tratar-se da instalação de um OS numa máquina para a qual ele não foi projetado, não será uma tarefa simples como baixar um .iso e gravá-lo num pendrive e "bootar" na BIOS.
 
 Recomendo que façam o download do programa [AIDA64]([Downloads | AIDA64](https://www.aida64.com/downloads)):
-![[aida.png]]
+![a](/aida.png)
 Procure e anote as seguintes informações:
 
 - CPU

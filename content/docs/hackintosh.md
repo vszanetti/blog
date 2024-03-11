@@ -9,7 +9,13 @@ Um hackintosh é um computador que usa o sistema operacional macOS, desenvolvido
 Justamente por tratar-se da instalação de um OS numa máquina para a qual ele não foi projetado, não será uma tarefa simples como baixar um .iso e gravá-lo num pendrive e "bootar" na BIOS.
 
 Recomendo que façam o download do programa [AIDA64]([Downloads | AIDA64](https://www.aida64.com/downloads)):
-![a](/aida.png)
+[](https://github.com/vszanetti/blog/blob/main/content/IMAGES/aida.png?raw=true)
+
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/aida.png?raw=true"
+         alt=""><figcaption>AIDA64 (versão de teste)</figcaption>
+</figure>
+
 Procure e anote as seguintes informações:
 
 - CPU
@@ -33,15 +39,37 @@ Agora que temos as informações necessárias para começar o processo de EFI; f
 
 1. Criaremos uma pasta, que chamarei de `pendrive` (aqui, o nome é irrelevante)
 2. Dentro dessa pasta, jogaremos nossa EFI base e macrecovery-1.0.0:
-   ![[pasta.png]]
+
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/pasta.png?raw=true"
+</figure>
+
 3. Certifique-se de que o Python está instalado no seu sistema.
 4. Abra o diretório do macrecovery-1.0.0 no Terminal apertando SHIFT + Botão direito do mouse _ou_ abra o prompt de comando clicando no caminho do diretório e digitando `cmd`:
-   ![[cmd.png]] 5. Escolha a versão do macOS que deseja baixar no arquivo `recovery_urls.txt`:
-   ![[versao_recovery.png]] 6. Copie o comando e cole-o clicando com o botão direito no terminal/prompt de comando:
-   ![[download_recovery.png]] 7. Remova todos os arquivos na pasta com exceção dos dois baixados, `BaseSystem.dmg` e `BaseSystem.chunklist`. 8. Renomeie essa mesma pasta para `com.apple.recovery.boot`.
-   Agora, podemos partir para a modificação do arquivo `config.plist` através do [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases/tag/20240001) ou do [ProperTree](https://github.com/corpnewt/ProperTree). Eu, particularmente, recomendo o uso do OCAT.
-5. No OCAT, vá em `File -> Open` e selecione o arquivo `config.plist` no caminho `...\EFI\OC\config.plist`.
-6. Vá em `Kernel -> Add` e clique no ícone `+`, no canto inferior direito, para adicionar os kexts condizentes com o seu hardware:
+
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/cmd.png?raw=true"
+</figure>
+
+5. Escolha a versão do macOS que deseja baixar no arquivo `recovery_urls.txt`:
+
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/versao_recovery.png?raw=true"
+</figure>
+
+6. Copie o comando e cole-o clicando com o botão direito no terminal/prompt de comando:
+
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/download_recovery.png?raw=true"
+</figure>
+
+7. Remova todos os arquivos na pasta com exceção dos dois baixados, `BaseSystem.dmg` e `BaseSystem.chunklist`.
+8. Renomeie essa mesma pasta para `com.apple.recovery.boot`.
+
+Agora, podemos partir para a modificação do arquivo `config.plist` através do [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases/tag/20240001) ou do [ProperTree](https://github.com/corpnewt/ProperTree). Eu, particularmente, recomendo o uso do OCAT.
+
+9. No OCAT, vá em `File -> Open` e selecione o arquivo `config.plist` no caminho `...\EFI\OC\config.plist`.
+10. Vá em `Kernel -> Add` e clique no ícone `+`, no canto inferior direito, para adicionar os kexts condizentes com o seu hardware:
 
 ### Áudio
 
@@ -97,19 +125,31 @@ Esses arquivos **DEVEM** estar inclusos no diretório `ACPI` da sua pasta EFI. R
 - [SSDT-AWAC](https://github.com/dortania/Getting-Started-With-ACPI/raw/master/extra-files/compiled/SSDT-AWAC.aml)
 - [SSDT-RHUB](https://github.com/luchina-gabriel/youtube-files/raw/main/SSDT-RHUB.aml)
 
-3. Agora que temos todos os `kexts` e as `tabelas` propriamente colocados na nossa EFI via OCAT, acesse `PI -> Generic`.
-4. Você deverá alterar os seguintes valores:
-   - _MLB (Board Serial)_
-     - *ROM (Mac Address)*
-   - _SystemSerialNumber (Serial)_
-   - _SystemUUID (SmUUID)_
-5. Baixe o arquivo [genSMBIOS](https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip) e rode seu script `.bat` (Windows) ou `.py`.
-   ![[sm_bios1.png]]
-   Selecione um modelo mac para seu sistema. Você provavelmente deverá procurar essa informação online; no meu caso trata-se do iMacPro1,1 :
-   ![[sm_bios2.png]]
-   Preencha os valores no OCAT com seus correspondentes novos como acima.
-6. Salve suas modificações.
-   > Importante: nunca use os números de serial de outra pessoa que, por ventura, tenha compartilhado sua `config.plist`. Isso causará diversos problemas, incluindo (e severamente) com o iCloud.
+11. Agora que temos todos os `kexts` e as `tabelas` propriamente colocados na nossa EFI via OCAT, acesse `PI -> Generic`.
+12. Você deverá alterar os seguintes valores:
+
+- _MLB (Board Serial)_
+  - *ROM (Mac Address)*
+- _SystemSerialNumber (Serial)_
+- _SystemUUID (SmUUID)_
+
+13. Baixe o arquivo [genSMBIOS](https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip) e rode seu script `.bat` (Windows) ou `.py`.
+
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/sm_bios1.png?raw=true"
+</figure>
+
+Selecione um modelo mac para seu sistema. Você provavelmente deverá procurar essa informação online; no meu caso trata-se do iMacPro1,1 :
+
+<figure>
+      <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/sm_bios2.png?raw=true"
+</figure>
+
+Preencha os valores no OCAT com seus correspondentes novos como acima.
+
+14. Salve suas modificações.
+
+> Importante: nunca use os números de serial de outra pessoa que, por ventura, tenha compartilhado sua `config.plist`. Isso causará diversos problemas, incluindo (e severamente) com o iCloud.
 
 ## Pronto!
 
@@ -120,8 +160,14 @@ Agora você já pode transferir as duas pastas de dentro de `pendrive` (ou o que
 ## Só mais uma coisinha...
 
 Depois que o macOS estiver instalado, certifique-se que ele será acessível sem o seu USB ao particionar o disco do sistema novamente criando uma partição de cerca de 250 MB do tipo `MS-DOS` chamado `EFI` através da ferramenta de disco do sistema. Na BIOS, selecione `OpenCore` como primeira opção de boot.
-![[disk_utility.png]]
 
-# Aproveite seu Hackintosh!
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/disk_utility.png?raw=true"
+</figure>
 
-![[Screenshot 2024-03-10 at 22.35.18.png]]
+# Aproveite seu Hackintosh
+
+<figure>
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/Screenshot%202024-03-10%20at%2022.35.18.png?raw=true"
+    alt=""><figcaption>Não se assuste com o consumo de RAM! O macOS faz o manejo dela diferentemente do Windows. Lembre-se que RAM não usada é RAM <i> jogada fora</i>.</figcaption>
+</figure>

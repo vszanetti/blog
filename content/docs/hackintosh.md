@@ -22,7 +22,9 @@ Procure e anote as seguintes informações:
 - Chipset (placa-mãe)
 - GPU
 - Rede
-  No meu caso:
+
+No meu caso:
+
 - CPU: RYZEN 5 2600
 - CHIPSET: AMD A320
 - GPU: RX 570

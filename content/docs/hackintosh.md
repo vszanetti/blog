@@ -30,7 +30,7 @@ No meu caso:
 - GPU: RX 570
 - REDE: Realtek(R) PCI(e) Ethernet Controller
 
-> Atenção: caso você tenha uma placa de vídeo NVIDEA, não será possível fazer o processo de hackintosh pois não há suporte para esse hardware. Apenas se tiver uma APU Intel (APUs da AMD não têm vídeo suportado) será possível utilizar o macOS.
+> Atenção: caso você tenha uma placa de vídeo NVIDIA, não será possível fazer o processo de hackintosh pois não há suporte para esse hardware. Apenas se você tiver uma APU Intel (APUs da AMD não têm vídeo suportado) será possível utilizar o macOS.
 
 ## EFI
 

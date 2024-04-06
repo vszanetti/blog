@@ -33,7 +33,7 @@ languages:
     weight: 2
   pt-br:
     contentDir: content/portugues
-    languageName: 🇧🇷 Português Brasileiro
+    languageName: 🇧🇷 Português
     weight: 1
 
 menu:

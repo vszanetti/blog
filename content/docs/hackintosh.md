@@ -161,11 +161,7 @@ Agora você já pode transferir as duas pastas de dentro de `pendrive` (ou o que
 
 ## Só mais uma coisinha...
 
-Depois que o macOS estiver instalado, certifique-se que ele será acessível sem o seu USB ao particionar o disco do sistema novamente criando uma partição de cerca de 250 MB do tipo `MS-DOS` chamado `EFI` através da ferramenta de disco do sistema. Na BIOS, selecione `OpenCore` como primeira opção de boot.
-
-<figure>
-    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/disk_utility.png?raw=true"
-</figure>
+Depois que o macOS estiver instalado, certifique-se que ele será acessível sem o seu USB rodar a aplicação [ESP Mounter Pro](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip), clicar no ícone que fica na barra de menu e, no canto inferior esquerdo marcar a opção "Show All Disks (not only ESP)" e então montar a partição EFI do seu pendrive _e_ do disco que foi feita a instalação do macOS, e acessá-la. Daí, basta colar sua pasta EFI que estava no pendrive (sua pasta deve ficar assim: Volumes/EFI/_sua pasta EFI, chamada EFI_)e selecionar _umount_ no programa. Quando for iniciar o computador novamente, verifique que a primeira ordem de _boot_ na sua BIOS é Opencore.
 
 # Aproveite seu Hackintosh
 

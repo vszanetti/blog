@@ -3,6 +3,10 @@ title:
 toc: false
 ---
 
+<marquee behavior="scroll" direction="left">
+  <img src="https://localghost.dev/img/geocities/consbar.gif" alt="Consbar GIF">
+</marquee>
+
 # Ciao, raghe! 👋
 
 I'm Vitor Zanetti, an engineering student from Brazil (🇧🇷).

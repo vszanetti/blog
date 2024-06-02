@@ -28,3 +28,8 @@ draft: false
 19. Eu patrocinaria a primeira missão tripulada a Marte e garantir que a bandeira do Figueirense seja a primeira a ser hasteada no planeta vermelho.
 20. Eu voltaria no tempo para garantir nosso título na Copa do Brasil de 2007.
 21. Eu faria do Figueirense o maior time de todos.
+
+
+<!-- Script do Cursor -->
+<script type="module">
+  import { ghostCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js";

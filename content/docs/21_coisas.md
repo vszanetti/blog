@@ -1,7 +1,7 @@
 ---
-title: "Como Tornar sua Vida Digital Privada, Privada. (INCOMPLETO)"
-date: "2019-01-19"
-lastmod: "2024-02-07"
+title: "21 coisas que faria pelo Figueirense"
+date: "2023-08-17"
+lastmod: "2024-06-01"
 draft: false
 ---
 

@@ -33,3 +33,6 @@ draft: false
 <!-- Script do Cursor -->
 <script type="module">
   import { ghostCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js";
+
+  new ghostCursor();
+</script>

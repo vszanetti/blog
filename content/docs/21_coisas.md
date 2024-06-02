@@ -1,34 +1,32 @@
 ---
-title: "21 coisas que faria pelo Figueirense"
+title: "21 things I'd do for Figueirense"
 date: "2023-08-17"
 lastmod: "2024-06-01"
 draft: false
 ---
+## 21 things I would do for my club
 
-## 21 coisas que eu faria pelo Figueirense...
-
-1. Eu faria uma tatuagem do Figueirense.
-2. Eu pintaria o meu carro nas cores do Figueirense.
-3. Eu viajaria para assistir os jogos do Figueirense fora de casa.
-4. Eu organizaria uma festa de aniversário tematizada no Figueirense.
-5. Eu produziria conteúdo relacionado ao Figueirense.
-6. Eu doaria todos os meus bens para ajudar a financiar o clube.
-7. Eu investiria na formação de uma equipe técnica e administrativa de alta qualidade, garantindo uma gestão eficiente e profissional do clube.
-8. Eu encomendaria uma estátua do Wilson e do Fernandes, feita de ouro maciço.
-9. Eu aceitaria ser usado como degrau de escada pelos ídolos do clube.
-10. Eu construiria uma réplica do Orlando Scarpelli.
-11. Eu contrataria um avião para escrever mensagens de amor e apoio incondicional ao Figueirense com fumaça.
-12. Eu construiria uma muralha em torno do bairro do Carianos.
-13. Eu acamparia permanentemente nas imediações do estádio.
-14. Eu eliminaria todos os leões, coelhos e tigres do mundo (simbolicamente).
-15. Eu cursaria Álgebra Linear novamente pelo Figueirense.
-16. Eu fundaria uma escola de pensamento dedicada exclusivamente ao estudo da história e filosofia do clube.
-17. Eu criaria um esquadrão de papagaios treinados para repetir os cantos da torcida do Figueirense em praças públicas em todo o mundo, espalhando a paixão pelo clube de maneira alada.
-18. Eu compraria a Lua e nela colocaria um gigantesco escudo do Figueirense para melhor iluminar a Terra.
-19. Eu patrocinaria a primeira missão tripulada a Marte e garantir que a bandeira do Figueirense seja a primeira a ser hasteada no planeta vermelho.
-20. Eu voltaria no tempo para garantir nosso título na Copa do Brasil de 2007.
-21. Eu faria do Figueirense o maior time de todos.
-
+1. I would get a Figueirense tatoo.
+2. I would paint my car in black and white because of Figueirense.
+3. I would travel to watch Figueirense away matches.
+4. I would organize a Figueirense-themed birthday party.
+5. I would produce content related to Figueirense.
+6. I would donate all my assets to help to pay for my club's expenses.
+7. I would invest a ton of money in the formation of a high-quality technical and administrative team, guaranteeing efficient and professional management of the club.
+8. I would commission a statue of Wilson and Fernandes - our idols, made of solid gold.
+9. I would accept being used as a stepping stone by the club's idols.
+10. I would build a replica of Orlando Scarpelli.
+11. I would hire an airplane to write messages of love and unconditional support for Figueirense in black and white smoke.
+12. I would build a wall around the Carianos neighborhood.
+13. I would camp permanently in the vicinity of the stadium.
+14. I would eliminate all the lions, rabbits and tigers in the world (symbolically).
+15. I would study Linear Algebra again for Figueirense.
+16. I would found a school of thought dedicated exclusively to the study of the club's history and philosophy.
+17. I would create a squadron of parrots trained to repeat the chants of the Figueirense fans in public squares all over the world, spreading the passion for the club in a winged way.
+18. I would buy the moon and put a gigantic Figueirense shield on it to better illuminate the Earth.
+19. I would sponsor the first manned mission to Mars and ensure that Figueirense's flag is the first to fly on the red planet.
+20. I would go back in time to ensure we won the 2007 Copa do Brasil.
+21. I would make Figueirense the greatest team of all.
 
 <!-- Script do Cursor -->
 <script type="module">

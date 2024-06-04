@@ -9,6 +9,8 @@ draft: false
     <img src="https://i.etsystatic.com/11397434/r/il/dec46e/3457810687/il_794xN.3457810687_ta8s.jpg"
          alt=""><figcaption><i>Snack Break at the Monastery Monk with Big Mug of Beer (1912) - Eduard Grutzner</i></figcaption>
 </figure>
+
+
 <div style="text-align: justify">
 O que é, o que é... Trata-se de algo muito forte. Algo que é simultaneamente material e imaterial, que tem suas raízes em barbaridades transpostas em civilização; é cobre e às vezes amarela como o milho, além de claro, em sua maior posição, negra como a noite em sua totalidade. Algo que, frio, aquece. E quente, não se quer... Algo que, por si só, basta - pois em si própria possui os grandes benefícios enérgicos que move o homem e, digo mais, fortifica-o. Algo... lindo. </div>
 

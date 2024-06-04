@@ -6,7 +6,7 @@ draft: false
 ---
 
 <figure>
-    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/content/IMAGES/il_fullxfull.3457810687_ta8s.avif?raw=true"
+    <img src="https://github.com/vszanetti/blog/blob/main/content/IMAGES/content/IMAGES/il_fullxfull.3457810687_ta8s.avif"
          alt=""><figcaption><i>Snack Break at the Monastery Monk with Big Mug of Beer (1912) - Eduard Grutzner</i></figcaption>
 </figure>
 

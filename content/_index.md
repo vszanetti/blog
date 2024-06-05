@@ -9,7 +9,7 @@ toc: false
 
 # Ciao, raghe! 👋
 
-I'm Vitor Zanetti, an engineering student from Brazil (🇧🇷).
+Long story short: urbanophilic, craft beer enthusiast; espresso lover and Twin Peaks enjoyer.
 <br></br>
 
 <div style="display: flex; align-items: center;">

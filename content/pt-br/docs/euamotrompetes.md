@@ -18,7 +18,7 @@ Deus abençoou o trompete com seu brilho metálico, e o diabo o faz oxidar a cad
 Em meu corpo de latão, eu carregaria o peso das notas e saberia, feliz, que estaria ao lado do mestre Djavan. 
 <br>
 O trompete é a lágrima que ri e o riso que chora, uma contradição pura, sim, mas mágica. 
-br>
+<br>
 Trompetá-lo-ia os segredos do vento com o meu inútil sopro. 
 <br>
 Trompetaria, sim, sem cessar, até que o último eco que lindamente produzi se perdesse no infinito. 

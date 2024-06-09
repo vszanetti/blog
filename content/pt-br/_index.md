@@ -7,7 +7,7 @@ toc: false
   <img src="https://localghost.dev/img/geocities/consbar.gif" alt="Consbar GIF">
 </marquee>
 
-# Ciao, raghe! 👋
+# [Ongi etorri !](https://pt.wiktionary.org/wiki/ongi_etorri) 👋
 
 Urbanófilo, barriga-verde, mané, e apreciador de cervejas artesanais catarinenses. Amante do café carioquinha e alvinegro do Estreito. (🇧🇷).
 <br></br>

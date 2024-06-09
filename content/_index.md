@@ -7,7 +7,7 @@ toc: false
   <img src="https://localghost.dev/img/geocities/consbar.gif" alt="Consbar GIF">
 </marquee>
 
-# Ciao, raghe! 👋
+# [Ongi etorri !](https://pt.wiktionary.org/wiki/ongi_etorri) 👋
 
 Long story short: urbanophilic, craft beer enthusiast; espresso lover and Twin Peaks enjoyer.
 <br></br>

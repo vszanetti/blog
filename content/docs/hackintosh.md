@@ -1,7 +1,7 @@
 ---
 title: "Hackintosh"
 date: 2024-03-10T22:20:55-03:00
-draft: false
+draft: true
 ---
 
 Um hackintosh é um computador que usa o sistema operacional macOS, desenvolvido pela Apple, mas que não é um produto da marca. Isso significa instalar o sistema em um hardware que não foi projetado para ele, como um PC ou laptop comum. Essa prática não é ilegal por si mesma, mas pode violar os termos de serviço da Apple e resultar em problemas legais -- além de não haver suporte técnico (fora você mesmo 😉).

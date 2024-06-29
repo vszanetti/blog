@@ -44,7 +44,7 @@ menu:
       weight: 1
     - identifier: about
       name: 🌍 About
-      pageRef: /
+      pageRef: /about
       weight: 2
     #- identifier: contact
     #  name: 👤 Contact

@@ -32,7 +32,7 @@ languages:
     languageName: :it: Italiano
     weight: 2
   pt-br:
-    contentDir: content/pt-br
+    contentDir: content/portugues
     languageName: :brazil: Português
     weight: 1
 
@@ -60,6 +60,11 @@ menu:
       url: "https://github.com/vszanetti"
       params:
         icon: github
+    - name: Twitter
+      weight: 6
+      url: "https://twitter.com/ocaligvla"
+      params:
+        icon: twitter
 
 params:
   navbar:

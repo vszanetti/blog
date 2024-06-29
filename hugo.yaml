@@ -21,19 +21,19 @@ defaultContentLanguage: en
 languages:
   en:
     contentDir: content
-    languageName: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+    languageName: :us: English
     weight: 3
   fr:
     contentDir: content/francais
-    languageName: 🇫🇷 Français
+    languageName: :fr: Français
     weight: 2
   it:
     contentDir: content/italiano
-    languageName: 🇮🇹 Italiano
+    languageName: :it: Italiano
     weight: 2
   pt-br:
-    contentDir: content/portugues
-    languageName: 🇧🇷 Português
+    contentDir: content/pt-br
+    languageName: :brazil: Português
     weight: 1
 
 menu:
@@ -44,7 +44,7 @@ menu:
       weight: 1
     - identifier: about
       name: 🌍 About
-      pageRef: /about
+      pageRef: /
       weight: 2
     #- identifier: contact
     #  name: 👤 Contact
@@ -60,11 +60,6 @@ menu:
       url: "https://github.com/vszanetti"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/ocaligvla"
-      params:
-        icon: twitter
 
 params:
   navbar:

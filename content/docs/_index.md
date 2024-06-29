@@ -1,3 +1,8 @@
+---
+title: Documentation
+layout: hextra-home
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

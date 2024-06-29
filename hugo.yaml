@@ -21,19 +21,19 @@ defaultContentLanguage: en
 languages:
   en:
     contentDir: content
-    languageName: :us: English
+    languageName: English
     weight: 3
   fr:
     contentDir: content/francais
-    languageName: :fr: Français
+    languageName: Français
     weight: 2
   it:
     contentDir: content/italiano
-    languageName: :it: Italiano
+    languageName: Italiano
     weight: 2
   pt-br:
-    contentDir: content/portugues
-    languageName: :brazil: Português
+    contentDir: content/pt-br
+    languageName: Português
     weight: 1
 
 menu:
